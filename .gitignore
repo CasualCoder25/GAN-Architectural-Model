@@ -1,0 +1,5 @@
+**/__pycache__/
+**/failed_attempt/
+**/gan_results/
+**/post_gan_results/
+**/processed_dataset/
